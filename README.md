@@ -1,5 +1,4 @@
 # Projet app mobile perso via Ionic
-==================
 
 ## Installation
 - [http://nodejs.org/](Node)
