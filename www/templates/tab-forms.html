@@ -1,0 +1,10 @@
+<ion-view view-title="Formations">
+  <ion-content>
+    <ion-list>
+      <ion-item class="item-avatar" ng-repeat="form in forms" type="item-text-wrap">
+        <img ng-src="{{form.face}}">
+        <h2>{{form.name}}</h2>
+      </ion-item>
+    </ion-list>
+  </ion-content>
+</ion-view>
