@@ -7,28 +7,23 @@ angular.module('starter.services', [])
   var exps = [{
     id: 0,
     name: 'Interact-IV.com Lux',
-    lastText: 'You on your way?',
-    face: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
+    lastText: 'Depuis 2013',
+    face: 'img/logos/interactiv-logo.jpg'
   }, {
     id: 1,
     name: 'Absolu Telecom',
-    lastText: 'Hey, it\'s me',
-    face: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
+    lastText: '2011 - 2013',
+    face: 'img/logos/absolu-telecom-logo.png'
   }, {
     id: 2,
     name: 'Absolu Network France',
-    lastText: 'Did you get the ice cream?',
-    face: 'https://pbs.twimg.com/profile_images/491274378181488640/Tti0fFVJ.jpeg'
+    lastText: '2010 - 2011',
+    face: 'img/logos/anf-logo.png'
   }, {
     id: 3,
     name: 'Starting Prod',
-    lastText: 'I should buy a boat',
-    face: 'https://pbs.twimg.com/profile_images/479090794058379264/84TKj_qa.jpeg'
-  }, {
-    id: 4,
-    name: 'Connect Games',
-    lastText: 'Look at my mukluks!',
-    face: 'https://pbs.twimg.com/profile_images/491995398135767040/ie2Z_V6e.jpeg'
+    lastText: '2007 - 2010',
+    face: 'img/logos/starting-prod-logo.jpg'
   }];
 
   return {
@@ -51,13 +46,13 @@ angular.module('starter.services', [])
   var forms = [{
     id: 0,
     name: 'Licence METINET',
-    notes: 'Enjoys drawing things',
-    face: 'https://pbs.twimg.com/profile_images/514549811765211136/9SgAuHeY.png'
+    notes: '2006-2007',
+    face: 'img/logos/metinet-logo.gif'
   }, {
     id: 1,
     name: 'DUT Genie logiciel',
-    notes: 'Odd obsession with everything',
-    face: 'https://avatars3.githubusercontent.com/u/11214?v=3&s=460'
+    notes: '2004-2006',
+    face: 'img/logos/iut-logo.jpg'
   }];
 
 
