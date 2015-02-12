@@ -6,7 +6,7 @@
 - ionic start \[Nom de l'app\] *\(template\)*
 - cd \[Nom de l'app\]
 - ionic setup sass
-- ionic serve
+- ionic serve 8101 35740 *\(au cas où LiveReload soit quelque peu récalcitrant\)*
 
 Easy.
 
